@@ -43,9 +43,7 @@ Open `http://localhost:5173`. No API keys to configure.
 
 ## Deploy (free)
 
-**Vercel** (30 seconds): Push to GitHub → vercel.com → New Project → Import → Deploy
-
-**Netlify**: Push to GitHub → netlify.com → Add site → Import → Build command `npm run build`, publish dir `dist`
+**Vercel** (30 seconds): (https://research-citation-generator.vercel.app/)
 
 ## License
 
