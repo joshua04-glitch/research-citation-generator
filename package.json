@@ -1,0 +1,20 @@
+{
+  "name": "cite-app",
+  "version": "2.0.0",
+  "description": "Free citation generator — paste a URL or upload a PDF, get perfectly formatted citations in APA, MLA, Chicago, IEEE, and Harvard. No AI, no API keys, no cost.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^6.0.0"
+  }
+}
